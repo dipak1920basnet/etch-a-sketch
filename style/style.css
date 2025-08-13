@@ -16,3 +16,21 @@
     border-radius: 23px;
     
 }
+
+main
+{
+    /* margin-top: 4%; */
+    /* height: 20px; */
+    /* width: 100%; */
+    /* padding: 2%; */
+    /* border: 2px solid red; */
+    align-items: center;
+    justify-items: center;
+}
+
+.play-ground
+{
+    width: 60%;
+    border: 2px solid red;
+    height: 69vh;
+}

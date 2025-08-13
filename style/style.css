@@ -1,0 +1,18 @@
+.display_grid_option
+{
+    /* margin-top: 4%; */
+    /* height: 20px; */
+    /* width: 100%; */
+    padding: 2%;
+    /* border: 2px solid red; */
+    align-items: center;
+    justify-items: center;
+}
+.grid_number
+{
+    width: 17%;
+    border: 2px solid red;
+    text-align: center;
+    border-radius: 23px;
+    
+}
